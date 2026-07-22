@@ -26,10 +26,30 @@ Microsoft Power BI
 Tableau
 Microsoft Excel
 
-Key Insights:
+Data Analysis Process:
+
+The project follows a structured data analytics process:
+
+Data Collection – Understanding the available retail sales data and business requirements.
+Data Cleaning – Identifying and handling missing, duplicate, and inconsistent data.
+Data Preparation – Preparing the data for analysis and visualization.
+SQL Analysis – Using SQL queries to analyze sales performance and answer business questions.
+Dashboard Development – Creating interactive dashboards and reports using Power BI and Tableau.
+Excel Analysis – Using Pivot Tables and trend analysis to explore sales patterns.
+Business Insights – Identifying key trends and performance drivers.
+Recommendations – Providing actionable recommendations to improve business performance.
+
+Key Business Insights:
 Identified top-performing products and categories contributing to overall revenue.
 Analyzed regional sales performance to identify high and low-performing regions.
 Identified customer purchasing patterns for better customer segmentation.
 Analyzed seasonal sales trends to understand changes in customer demand.
 Identified underperforming products that may require inventory or marketing optimization.
 Evaluated the impact of discounts and promotional activities on sales performance.
+
+Screenshot/ Demos: 
+
+
+
+
+
