@@ -47,7 +47,7 @@ Analyzed seasonal sales trends to understand changes in customer demand.
 Identified underperforming products that may require inventory or marketing optimization.
 Evaluated the impact of discounts and promotional activities on sales performance.
 
-Screenshot/ Demos: https://github.com/omkarkurunkar/Retail-Sales-performance-Analysis/blob/main/Retal%20Sales%20Analysis%20Dashboard.png
+Screenshot/ Demos: ![Retail Sales Dashboard](Dashboard%20Screenshots/retail_sales_dashboard.png)
 
 
 
